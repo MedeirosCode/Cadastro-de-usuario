@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/90536013/194912505-1f9e7d28-4080-4a54-9a0c-108e98e1730a.png)
 
 # Cadastro-de-usuario
-cadastro de usuario com express e mongoDB
+cadastro de usuario com EXPRESS MONGODB EJS
 COMO BAIXAR O PROJETO
 
 # Clonar o repositório
