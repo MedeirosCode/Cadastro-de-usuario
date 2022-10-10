@@ -10,19 +10,19 @@ Desenvolvido utilizando as seguintes tecnologias
 # COMO BAIXAR O PROJETO
 
 # Clonar o repositório
-$ git clone https://github.com/MedeirosCode/Cadastro-de-usuario.git
+ git clone https://github.com/MedeirosCode/Cadastro-de-usuario.git
 
   # Entrar no diretório
-  $ cd Cadastro-de-usuario
+   cd Cadastro-de-usuario
 
   # Instalar as dependências
-  $ npm install
+   npm install
   
   # Fazer conexão no DB
-  $ LINK: www.mongodb.com
+   LINK: www.mongodb.com
   
   # Adicionar banco no projeto
-  $ Add o connect em /database/connect.js
+   Add o connect em /database/connect.js
   
    # Iniciar o projeto
-  $ node index.js
+   node index.js
