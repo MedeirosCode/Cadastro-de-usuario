@@ -17,12 +17,12 @@ $ git clone https://github.com/MedeirosCode/Cadastro-de-usuario.git
 
   # Instalar as dependências
   $ npm install
-
-  # Iniciar o projeto
-  $ node index.js
   
   # Fazer conexão no DB
   $ LINK: www.mongodb.com
   
   # Adicionar banco no projeto
   $ Add o connect em /database/connect.js
+  
+   # Iniciar o projeto
+  $ node index.js
