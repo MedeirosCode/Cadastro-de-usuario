@@ -4,9 +4,9 @@
 
 Desenvolvido utilizando as seguintes tecnologias
 
-- [EXPRESS]([https://reactjs.org](https://www.npmjs.com/package/express))
-- [MONGODB]([https://redux.org](https://www.npmjs.com/package/mongoose))
-- [EJS]([https://github.com/axios/axios](https://www.npmjs.com/package/ejs))
+- [EXPRESS](https://www.npmjs.com/package/express)
+- [MONGODB](https://www.npmjs.com/package/mongoose)
+- [EJS](https://www.npmjs.com/package/ejs)
 # COMO BAIXAR O PROJETO
 
 # Clonar o repositório
