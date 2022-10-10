@@ -2,7 +2,7 @@
 
 # Cadastro-de-usuario
 cadastro de usuario com EXPRESS MONGODB EJS
-COMO BAIXAR O PROJETO
+# COMO BAIXAR O PROJETO
 
 # Clonar o repositório
 $ git clone https://github.com/MedeirosCode/Cadastro-de-usuario.git
