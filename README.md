@@ -15,6 +15,7 @@ $ git clone https://github.com/MedeirosCode/Cadastro-de-usuario.git
   $ node index.js
   
   # Fazer conexão no DB
+  
   $ LINK: www.mongodb.com
   $ Add o connect em /database/connect.js
 
