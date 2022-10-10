@@ -21,5 +21,3 @@ $ git clone https://github.com/MedeirosCode/Cadastro-de-usuario.git
   
   # Adicionar banco no projeto
   $ Add o connect em /database/connect.js
-
-# FOTO DO PROJETO
